@@ -1,7 +1,6 @@
 package br.com.beralta.dao;
 
 import br.com.beralta.domain.Cliente;
-
 import java.util.Collection;
 
 public interface IClienteDAO {

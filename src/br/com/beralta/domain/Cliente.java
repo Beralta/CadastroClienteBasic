@@ -21,6 +21,9 @@ public class Cliente {
         this.estado = estado;
     }
 
+    public Cliente(String dadosSeparado, String dadosSeparado1, String dadosSeparado2, String dadosSeparado3, String dadosSeparado4, String dadosSeparado5, String dadosSeparado6) {
+    }
+
     public String getNome() {
         return nome;
     }
